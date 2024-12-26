@@ -31,7 +31,7 @@ The easiest way to interact with the API is to use one of the official SDK clien
 - **Dart - [pocketbase/dart-sdk](https://github.com/pocketbase/dart-sdk)** (_web, mobile, desktop_)
 
 ## Overview
-
+## By Mudassir Alam
 ### Use as standalone app
 
 You could download the prebuilt executable for your platform from the [Releases page](https://github.com/pocketbase/pocketbase/releases).
